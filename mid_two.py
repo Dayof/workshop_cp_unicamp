@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 # https://www.urionlinejudge.com.br/judge/pt/problems/view/1288
 
 # Canhão de Destruição
