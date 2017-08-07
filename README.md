@@ -22,6 +22,7 @@ Workshop de programação competitiva realizado na Unicamp na data de 07/08/2017
     - [Hackerearth](https://www.hackerearth.com)
     - [Uri](https://www.urionlinejudge.com.br)
     - [Uva](https://uva.onlinejudge.org)
+    - [CodeForces](http://codeforces.com)
     - [BOCA](https://www.ime.usp.br/~cassio/boca/) | [BOCA GitHub](http://github.com/cassiopc/boca/.)
 
   - Livros
