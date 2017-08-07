@@ -1,4 +1,4 @@
-# Competitive programming - IEEE Ramo Estudantil da Unicamp
+# Programação competitiva
 
 ## Descrição
 
@@ -23,6 +23,9 @@ Workshop de programação competitiva realizado na Unicamp na data de 07/08/2017
     - [Uri](https://www.urionlinejudge.com.br)
     - [Uva](https://uva.onlinejudge.org)
     - [BOCA](https://www.ime.usp.br/~cassio/boca/) | [BOCA GitHub](http://github.com/cassiopc/boca/.)
+
+  - Livros
+    - Competitive Programming : https://cpbook.net
 
 ## Metodologia
 
