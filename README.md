@@ -6,7 +6,7 @@ Workshop de programação competitiva realizado na Unicamp na data de 07/08/2017
 
 ## Cronograma
 
-- Explicação do funcionamento de programação competitiva + apresentação de plataformas (15 min)
+- Explicação do funcionamento de programação competitiva + apresentação de plataformas
   - Explicação da Metodologia
   - ACM-ICPC
     - Datas : https://icpc.baylor.edu/worldfinals/schedule
@@ -29,7 +29,7 @@ Workshop de programação competitiva realizado na Unicamp na data de 07/08/2017
 
 ## Metodologia
 
-- 5 exercícios, 2 "fáceis" e 3 médios
+- 5 exercícios, 2 "fáceis" e 2 médios
 - grupos de preferência com 3 pessoas ou no mínimo 2
 - cada grupo pode utilizar somente um computador
 - utilizar somente material impresso
@@ -45,3 +45,5 @@ Workshop de programação competitiva realizado na Unicamp na data de 07/08/2017
 ### Médio
 
 - Hackathon Shirts : https://www.hackerrank.com/contests/womens-codesprint-3/challenges/hackathon-shirts/problem
+
+- Canhão de Destruição : https://www.urionlinejudge.com.br/judge/pt/problems/view/1288
